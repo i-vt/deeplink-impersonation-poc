@@ -2,7 +2,7 @@
 
 This repository contains the source code for a Proof-of-Concept (PoC) demonstrating how a malicious Android application can impersonate a trusted application by exploiting the deep link handling mechanism.
 
-This code accompanies the Medium blog post: [How Malicious Android Apps Can Impersonate Yours with Deep Links](https://medium.com/@frankheat/how-malicious-android-apps-can-impersonate-yours-with-deep-links-4651fcf0dd1f).
+This code accompanies the Medium blog post: [How Malicious Android Apps Can Impersonate Yours Using Deep Links](https://medium.com/@frankheat/how-malicious-android-apps-can-impersonate-yours-using-deep-links-8eac7f245aaf).
 
 ## How to Reproduce the Attack
 
