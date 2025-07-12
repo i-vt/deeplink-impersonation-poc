@@ -39,3 +39,5 @@ adb shell am start -a android.intent.action.VIEW -d "safebank://"
 
 **5. Observe the result**
 * The Android disambiguation dialog will appear on your device, showing two identical "SafeBank" options.
+
+<img width="2416" height="14894" alt="Screenshot 2025-07-12 at 01-30-37 How Malicious Android Apps Can Impersonate Yours Using Deep Links by Frankheat Jul 2025 Medium" src="https://github.com/user-attachments/assets/370bd377-6c37-4341-bdcb-8e6b667365bb" />
